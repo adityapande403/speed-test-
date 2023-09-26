@@ -3,7 +3,7 @@
 
 # In[ ]:
 
-
+pip install speedtest
 import streamlit as st
 import speedtest
 import csv
