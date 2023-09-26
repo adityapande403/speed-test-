@@ -3,7 +3,7 @@
 
 # In[ ]:
 
-pip install speedtest-cli streamlit
+
 
 import streamlit as st
 import speedtest
