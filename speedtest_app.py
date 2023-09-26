@@ -2,6 +2,8 @@
 # coding: utf-8
 
 # In[ ]:
+pip install speedtest-cli streamlit
+
 import streamlit as st
 import speedtest
 import csv
